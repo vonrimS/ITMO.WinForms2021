@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02 Exercise08", "Lab02 E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02 Exercise09", "Lab02 Exercise09\Lab02 Exercise09.csproj", "{3376D897-0140-471E-8F3B-8DAC2760174A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03 Exercise01", "Lab03 Exercise01\Lab03 Exercise01.csproj", "{1AC99794-1711-4CEF-86E3-2F168072C3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsControlLibrary1", "WinFormsControlLibrary1\WinFormsControlLibrary1.csproj", "{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{3376D897-0140-471E-8F3B-8DAC2760174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3376D897-0140-471E-8F3B-8DAC2760174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3376D897-0140-471E-8F3B-8DAC2760174A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC99794-1711-4CEF-86E3-2F168072C3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC99794-1711-4CEF-86E3-2F168072C3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC99794-1711-4CEF-86E3-2F168072C3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC99794-1711-4CEF-86E3-2F168072C3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
