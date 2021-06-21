@@ -1,5 +1,5 @@
 ﻿
-namespace Lab01_Exercise04
+namespace Lab02_Exercise03
 {
     partial class ChildForm
     {

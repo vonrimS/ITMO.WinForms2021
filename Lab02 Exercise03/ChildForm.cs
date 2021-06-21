@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab01_Exercise04
+namespace Lab02_Exercise03
 {
     public partial class ChildForm : Form
     {
