@@ -31,7 +31,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02 Exercise09", "Lab02 E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03 Exercise01", "Lab03 Exercise01\Lab03 Exercise01.csproj", "{1AC99794-1711-4CEF-86E3-2F168072C3B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsControlLibrary1", "WinFormsControlLibrary1\WinFormsControlLibrary1.csproj", "{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsControlLibrary1", "WinFormsControlLibrary1\WinFormsControlLibrary1.csproj", "{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03 Exercise02", "Lab03 Exercise02\Lab03 Exercise02.csproj", "{DF5D86BD-86F9-4A73-A1C1-9EB814EF1876}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F716A3F-DAB2-4ED4-B7A6-60B7E5B26E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5D86BD-86F9-4A73-A1C1-9EB814EF1876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5D86BD-86F9-4A73-A1C1-9EB814EF1876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5D86BD-86F9-4A73-A1C1-9EB814EF1876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5D86BD-86F9-4A73-A1C1-9EB814EF1876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
